@@ -1,0 +1,15 @@
+The program will not run if you do have JAVA installed, so either use the javaSetup.exe that I provided or 
+Google Java Download and install the latest version, once you've done so just double-click the program ^_^
+
+IF THE PROGRAM HAS ANY BUGS OR PROBLEMS PLEASE REACH OUT TO ME ON TWITTER @KRISGFX
+
+---------------------------------------
+ABOUT ME
+
+Hi, I'm Kris also known as KrisGFX.
+Recently I started cash trading and it became tedious for me to have to open the CALCULATOR
+every time I wanted to calculate how much to offer, i thought to myself, why not make a simple Java project,
+which will calculate it for me.
+
+I do not have lots of experience with Java but i need to learn it so i tried to the best of my ability.
+I will eventually update it when i have more knowledge but for the time being, I HOPE IT WILL HELP YOU <3
